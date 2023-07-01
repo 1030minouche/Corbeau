@@ -3,22 +3,7 @@ from pystyle import *
 
 
 
-
 banner1 = r'''
-
-                                                                      
-                            ,,                                        
-`7MMF'   `7MF'            `7MM    mm                                  
-  `MA     ,V                MM    MM                                  
-   VM:   ,V   `7MM  `7MM    MM  mmMMmm  `7MM  `7MM  `7Mb,od8  .gP"Ya  
-    MM.  M'     MM    MM    MM    MM      MM    MM    MM' "' ,M'   Yb 
-    `MM A'      MM    MM    MM    MM      MM    MM    MM     8M"""""" 
-     :MM;       MM    MM    MM    MM      MM    MM    MM     YM.    , 
-      VF        `Mbod"YML..JMML.  `Mbmo   `Mbod"YML..JMML.    `Mbmmd' 
-                                                                      
-'''
-
-banner2 = r'''
                                     
                                     _--_
                                    V   -B
@@ -33,7 +18,7 @@ banner2 = r'''
                                ~~~~~~~~~~'''
 
 
-banner = Add.Add(banner1, banner2)
+banner = Add.Add(banner1)
 
 
 class Tui:
