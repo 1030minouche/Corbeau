@@ -15,6 +15,3 @@ Ce programme permet d'acceder aux fichiers d'un ordinateur à distance
 * ***It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.***
 <br><br>
 
------
-
-### <p align="center">billythegoat356</p>
